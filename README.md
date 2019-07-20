@@ -58,3 +58,10 @@ A flask REST Api which parses a timetable given as excel file to json data and s
   "time" : "duration"
  }
  ```
+ 
+ ## To-Do
+ 
+ - [x] A static python script to parse the excel file using pandas.
+ - [ ] A flask server to handle dynamic requests.
+ - [ ] Deploy server to Heroku.
+ - [ ] Flutter app to add UI.
