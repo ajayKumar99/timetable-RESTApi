@@ -23,7 +23,7 @@ A flask REST Api which parses a timetable given as excel file to json data and s
  ```
  $ python app.py
  ```
- This will setup a local server on http://127.0.0.1:5000
+ This will setup a local server on http://127.0.0.1:5000/
  
  * Json request structure
  ```
